@@ -1,1 +1,1 @@
-# Determining-What-Salary-should-be-offered-to-a-new-employee-based-on-his-PayScale
+# Determining-What-Salary-should-be-offered-to-a-new-employee-based-on-the-PayScale
